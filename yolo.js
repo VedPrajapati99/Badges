@@ -1,1 +1,1 @@
-console.log("For The YOLO Badge")
+console.log('Pair  Badge');
